@@ -14,10 +14,10 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>Hi, I'm Mo — I build things that actually work.</h2>
+      <h2>Hi, I'm Mo, I build things that actually work.</h2>
       <p>
         <b>Full-stack developer based in Athens.</b> I take messy problems and turn them into
-        clean, working products — full-stack apps, automation pipelines, AI-powered tools,
+        clean, working products: full-stack apps, automation pipelines, AI-powered tools,
         and e-commerce systems that people actually use.
       </p>
       <img src="https://img.shields.io/badge/System%20Architecture-020617?style=for-the-badge&logo=blueprint&logoColor=38bdf8&labelColor=0f172a" alt="System architecture" />
@@ -25,13 +25,13 @@
       <img src="https://img.shields.io/badge/Production%20Mindset-020617?style=for-the-badge&logo=rocket&logoColor=22c55e&labelColor=0f172a" alt="Production mindset" />
       <p>
         I care about clean structure, reliable data flows, and tools that save you time
-        rather than add noise. If it ships and it works — I'm happy.
+        rather than add noise. If it ships and it works, I'm happy.
       </p>
     </td>
     <td width="42%" valign="top">
       <h2>What I focus on</h2>
-      <p><code>01</code> <b>Full-Stack Development</b><br />APIs, dashboards, auth, databases, deployment — end to end</p>
-      <p><code>02</code> <b>Automation & Scraping</b><br />Bots, scrapers, data pipelines, workflows that run themselves</p>
+      <p><code>01</code> <b>Full-Stack Development</b><br />APIs, dashboards, auth, databases, deployment, end to end</p>
+      <p><code>02</code> <b>Automation &amp; Scraping</b><br />Bots, scrapers, data pipelines, workflows that run themselves</p>
       <p><code>03</code> <b>AI-Powered Tools</b><br />Practical AI features connected to real infrastructure</p>
       <p><code>04</code> <b>Open to Collaboration</b><br />I work best with people who want to ship, not just plan</p>
     </td>
@@ -45,7 +45,7 @@
 ## Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flutter,supabase,postgres,docker,vercel,firebase,n8n,aws,cloudflare,git,figma,vscode&theme=dark&perline=17" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flutter,supabase,postgres,docker,vercel,firebase,cloudflare,git,figma,vscode&theme=dark&perline=15" alt="Tech stack" />
 </div>
 
 <br />
@@ -70,5 +70,5 @@
 
 <div align="center">
   <b>Got a project in mind? Let's talk.</b><br />
-  <a href="https://x.com/mohaabdelkarim_">@mohaabdelkarim_</a> · <a href="https://www.linkedin.com/in/mohamed-abdelkarim-56771b316/">LinkedIn</a>
+  <a href="mailto:mohaabdelkarim2@gmail.com">mohaabdelkarim2@gmail.com</a>
 </div>
