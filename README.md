@@ -14,25 +14,26 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>Building Useful Digital Systems</h2>
+      <h2>Hi, I'm Mo — I build things that actually work.</h2>
       <p>
-        <b>From idea to working system:</b> I design full-stack apps, automation engines,
-        scraping pipelines, e-commerce logic, and AI-assisted workflows that turn complexity into usable products.
+        <b>Full-stack developer based in Athens.</b> I take messy problems and turn them into
+        clean, working products — full-stack apps, automation pipelines, AI-powered tools,
+        and e-commerce systems that people actually use.
       </p>
       <img src="https://img.shields.io/badge/System%20Architecture-020617?style=for-the-badge&logo=blueprint&logoColor=38bdf8&labelColor=0f172a" alt="System architecture" />
       <img src="https://img.shields.io/badge/Automation%20Labs-020617?style=for-the-badge&logo=robotframework&logoColor=8b5cf6&labelColor=0f172a" alt="Automation labs" />
       <img src="https://img.shields.io/badge/Production%20Mindset-020617?style=for-the-badge&logo=rocket&logoColor=22c55e&labelColor=0f172a" alt="Production mindset" />
       <p>
-        My focus is practical engineering: clean structure, reliable data flows,
-        cloud-ready deployments, and tools that save time instead of adding noise.
+        I care about clean structure, reliable data flows, and tools that save you time
+        rather than add noise. If it ships and it works — I'm happy.
       </p>
     </td>
     <td width="42%" valign="top">
-      <h2>Prime Focus</h2>
-      <p><code>01</code> <b>Full-Stack Control</b><br />APIs, dashboards, auth, databases, deployment flow</p>
-      <p><code>02</code> <b>Automation Systems</b><br />Scrapers, bots, data extraction, repeatable workflows</p>
-      <p><code>03</code> <b>AI + Cloud Utility</b><br />Useful AI features connected to deployable infrastructure</p>
-      <p><code>04</code> <b>Smart Collaboration</b><br />Serious builds, sharp ideas, real-world outcomes</p>
+      <h2>What I focus on</h2>
+      <p><code>01</code> <b>Full-Stack Development</b><br />APIs, dashboards, auth, databases, deployment — end to end</p>
+      <p><code>02</code> <b>Automation & Scraping</b><br />Bots, scrapers, data pipelines, workflows that run themselves</p>
+      <p><code>03</code> <b>AI-Powered Tools</b><br />Practical AI features connected to real infrastructure</p>
+      <p><code>04</code> <b>Open to Collaboration</b><br />I work best with people who want to ship, not just plan</p>
     </td>
   </tr>
 </table>
@@ -44,16 +45,16 @@
 ## Core Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,java,cs,cpp,c,md,aws,azure,gcp,cloudflare,firebase,mongodb,mysql,postgres,gitlab,vitest&theme=dark&perline=17" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,flutter,supabase,postgres,docker,vercel,firebase,n8n,aws,cloudflare,git,figma,vscode&theme=dark&perline=17" alt="Tech stack" />
 </div>
 
 <br />
 
 <table>
   <tr>
-    <td width="25%" align="center"><b>Full-Stack</b><br />APIs, dashboards, auth, databases</td>
-    <td width="25%" align="center"><b>Automation</b><br />Scrapers, bots, workflow tools</td>
-    <td width="25%" align="center"><b>E-Commerce</b><br />Catalogs, flows, backend logic</td>
+    <td width="25%" align="center"><b>Full-Stack</b><br />React, Node.js, APIs, databases</td>
+    <td width="25%" align="center"><b>Automation</b><br />n8n, scrapers, bots, pipelines</td>
+    <td width="25%" align="center"><b>Mobile</b><br />Flutter, cross-platform apps</td>
     <td width="25%" align="center"><b>AI Integration</b><br />Useful features, not hype</td>
   </tr>
 </table>
@@ -68,5 +69,6 @@
 <br />
 
 <div align="center">
-  <b>Let's build something useful, fast, and production-ready.</b>
+  <b>Got a project in mind? Let's talk.</b><br />
+  <a href="https://x.com/mohaabdelkarim_">@mohaabdelkarim_</a> · <a href="https://www.linkedin.com/in/mohamed-abdelkarim-56771b316/">LinkedIn</a>
 </div>
