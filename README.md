@@ -5,7 +5,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdelkarim-56771b316/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020617" alt="LinkedIn" /></a>
   <a href="https://x.com/mohaabdelkarim_"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" alt="X" /></a>
+  <a href="https://www.instagram.com/mohamedabdelkarim_"><img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=e1306c&labelColor=020617" alt="Instagram" /></a>
   <a href="https://www.facebook.com/profile.php?id=100004541625690"><img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=60a5fa&labelColor=020617" alt="Facebook" /></a>
+  <a href="https://www.mohabdelkarim.com/"><img src="https://img.shields.io/badge/Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=020617" alt="Website" /></a>
   <img src="https://komarev.com/ghpvc/?username=mohabdelkarim&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
@@ -14,7 +16,7 @@
 <table>
   <tr>
     <td width="58%" valign="top">
-      <h2>Hi, I'm Mo, I build things that actually work.</h2>
+      <h3>Hi, I'm Mo, I build things that actually work.</h3>
       <p>
         <b>Full-stack developer based in Athens.</b> I take messy problems and turn them into
         clean, working products: full-stack apps, automation pipelines, AI-powered tools,
@@ -33,7 +35,8 @@
       </p>
     </td>
     <td width="42%" valign="top">
-      <h2>What I focus on</h2>
+      <br />
+      <p><b>What I focus on</b></p>
       <p><code>01</code> <b>Full-Stack Development</b><br />APIs, dashboards, auth, databases, deployment, end to end</p>
       <p><code>02</code> <b>Automation &amp; Scraping</b><br />Bots, scrapers, data pipelines, workflows that run themselves</p>
       <p><code>03</code> <b>AI-Powered Tools</b><br />Practical AI features connected to real infrastructure</p>
