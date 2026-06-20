@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/mohamed-abdelkarim-56771b316/"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=020617" alt="LinkedIn" /></a>
   <a href="https://x.com/mohaabdelkarim_"><img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=ffffff&labelColor=020617" alt="X" /></a>
   <a href="https://www.facebook.com/profile.php?id=100004541625690"><img src="https://img.shields.io/badge/Facebook-0f172a?style=for-the-badge&logo=facebook&logoColor=60a5fa&labelColor=020617" alt="Facebook" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mohamedEMHA&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=mohabdelkarim&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <br />
@@ -62,8 +62,8 @@
 ## GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedEMHA&theme=github_dark" alt="GitHub activity stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedEMHA&theme=github_dark" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohabdelkarim&theme=github_dark" alt="GitHub activity stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohabdelkarim&theme=github_dark" alt="Repositories per language" />
 </div>
 
 <br />
