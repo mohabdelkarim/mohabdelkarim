@@ -21,7 +21,11 @@
         and e-commerce systems that people actually use.
       </p>
       <img src="https://img.shields.io/badge/System%20Architecture-020617?style=for-the-badge&logo=blueprint&logoColor=38bdf8&labelColor=0f172a" alt="System architecture" />
+      <img src="https://img.shields.io/badge/AI%20Builder-020617?style=for-the-badge&logo=openai&logoColor=74aa9c&labelColor=0f172a" alt="AI Builder" />
       <img src="https://img.shields.io/badge/Automation%20Labs-020617?style=for-the-badge&logo=robotframework&logoColor=8b5cf6&labelColor=0f172a" alt="Automation labs" />
+      <img src="https://img.shields.io/badge/Scraping%20Pro-020617?style=for-the-badge&logo=python&logoColor=f7c948&labelColor=0f172a" alt="Scraping Pro" />
+      <img src="https://img.shields.io/badge/Mobile%20Dev-020617?style=for-the-badge&logo=flutter&logoColor=54c5f8&labelColor=0f172a" alt="Mobile Dev" />
+      <img src="https://img.shields.io/badge/Open%20Source-020617?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0f172a" alt="Open Source" />
       <img src="https://img.shields.io/badge/Production%20Mindset-020617?style=for-the-badge&logo=rocket&logoColor=22c55e&labelColor=0f172a" alt="Production mindset" />
       <p>
         I care about clean structure, reliable data flows, and tools that save you time
